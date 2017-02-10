@@ -5,6 +5,8 @@ application up and running.
 
 [Udemy.com]https://www.udemy.com/ruby-on-rails-a-beginners-guide-free/learn/v4/content Ruby on Rails a Beginners Guide
 
+My second app
+
 Things you may want to cover:
 
 * Ruby version
