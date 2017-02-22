@@ -47,6 +47,9 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 
 gem 'hirb', '~> 0.7.3'
 
+gem 'will_paginate', '~> 3.1'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
