@@ -1,6 +1,6 @@
 <p id="notice"><%= notice %></p>
 
-<%= render 'comments/form' %>
+
 
 <p>
   <strong>Create By:</strong>
@@ -16,6 +16,8 @@
   <strong>Body:</strong>
   <%= @article.body %>
 </p>
+
+<%= render 'comments/form' %>
 
 <%= link_to 'Edit', edit_article_path(@article) %> |
 <%= link_to 'Back', articles_path %>
